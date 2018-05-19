@@ -1,7 +1,5 @@
 package algo2.graph;
 
-import edu.princeton.cs.algs4.Stack;
-
 public class Dfs extends AbstractPaths {
     private final Graph g;
     private final int s;
